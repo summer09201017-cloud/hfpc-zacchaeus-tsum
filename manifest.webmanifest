@@ -1,0 +1,13 @@
+{
+  "name": "撒該請客・還他四倍",
+  "short_name": "撒該請客",
+  "description": "連起同款的家財分給窮人——訛詐錢袋還他四倍!今天救恩到了這家。(路19,和合本)",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#3a2a16",
+  "theme_color": "#6b4a23",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
